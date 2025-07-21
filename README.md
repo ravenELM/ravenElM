@@ -29,11 +29,13 @@ Welcome to my GitHub profile! I'm a passionate **developer** who enjoys **coding
 
 Here are a few cool projects I've been working on recently:
 
-1. **[Project Name #1](https://github.com/YourUsername/Project-1)**  
-   Short description of the project (e.g., **A web app that automates tasks**)
+### 1. **[Tic-Tac-Toe Game](https://your-live-link.com/tic-tac-toe)**
+   - **A fun, interactive Tic-Tac-Toe game built with JavaScript.** You can play it directly in your browser.
+   - **Demo Link**: [Play Tic-Tac-Toe Here](https://your-live-link.com/tic-tac-toe)
+   - ![Tic-Tac-Toe Screenshot](https://your-screenshot-link.com)
 
-2. **[Project Name #2](https://github.com/YourUsername/Project-2)**  
-   Short description of the project (e.g., **A Tic-Tac-Toe game built with JavaScript**)
+### 2. **[Project Name #2](https://github.com/YourUsername/Project-2)**  
+   - Short description of the project (e.g., **A Tic-Tac-Toe game built with JavaScript**)
 
 ---
 
